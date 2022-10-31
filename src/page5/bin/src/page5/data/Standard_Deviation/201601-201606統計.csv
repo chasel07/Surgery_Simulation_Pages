@@ -1,0 +1,907 @@
+AES,"BREAST RECONSTRUCTION,BIL.",635,635,635.0,0.0,1
+AES,"LABIAPLASTY MAJOR/MINOR,SIMPLE",90,90,90.0,0.0,1
+AES,"Blepharoplasty suture, bilat",50,50,50.0,0.0,1
+AES,"Vaginoplasty revision,each stit",40,55,47.5,7.48,2
+AES,"Repair eyestrings involute-B, G",160,160,160.0,0.0,1
+AES,Implant./Removal tissue expader,160,160,160.0,0.0,1
+AES,"SONO Liposuction, small",50,155,102.5,52.5,2
+AES,"Lower eyelid fat transfer-B, S",155,155,155.0,0.0,1
+AES,Orthognathic surgery,300,310,305.0,5.0,2
+AES,"Embolic nipple augmentation,bil",55,115,83.33,24.6,3
+AES,"Blepharoplasty-repair con.B, C",210,210,210.0,0.0,1
+AES,"Hymenoplasty, pay self",70,70,70.0,0.0,1
+AES,S.R. Inj. silicone jel-partical,150,150,150.0,0.0,1
+AES,"lower eyelid revision,each stitc",65,65,65.0,0.0,1
+AES,"Augmentation Rhinoplasty, natur",430,430,430.0,0.0,1
+AES,"Suction lipectomy < 5%,payself",450,450,450.0,0.0,1
+AES,Lateral canthal sling langophth,110,110,110.0,0.0,1
+AES,"Excision of aporcrine glands,bi",135,135,135.0,0.0,1
+AES,Vaginoplasty superficial,80,80,80.0,0.0,1
+AES,Scar revision 1 hour (pay self),110,110,110.0,0.0,1
+CRS,"Enterostomy (Colostomy, Jujunos",30,585,125.78,110.39,45
+CRS,Radical Proctotectomy & pelvic l,90,305,166.67,61.09,36
+CRS,Wound Repair - Large,60,90,70.0,14.14,3
+CRS,Laparosco. colectomy&anastomosis,185,525,268.61,77.18,18
+CRS,Painless colonoscopy,5,110,28.06,18.18,80
+CRS,"Colectomy, radiacl hemicolectom",140,450,209.95,76.43,21
+CRS,Colectomy+anastomosis+LN dissec,105,485,214.5,100.01,10
+CRS,Hermod wedge,10,85,45.3,17.75,33
+CRS,"Fistulectomy,subcutaneous",15,75,38.54,17.87,24
+CRS,Colon fiberoscopy,10,110,34.41,22.99,17
+CRS,Exploratory laparotomy,35,305,132.41,69.16,29
+CRS,Closure loop enterostomy/clolst,60,205,120.83,37.21,30
+CRS,"Colectomy, APR",270,455,361.67,75.53,3
+CRS,Laparoscopic sigmoid&anastomosis,160,350,232.75,51.29,20
+CRS,Fistulotomy & hemorrhoidectomy,5,65,34.0,16.75,15
+CRS,"Intra. incision & drainage, sim",50,50,50.0,0.0,1
+CRS,"Electro cauterization,simple",5,25,16.43,8.72,7
+CRS,"Tracheostomy, mediastinal",30,95,60.0,21.55,7
+CRS,"Colectomy, partial & anastomosis",65,535,244.0,123.14,15
+CRS,Fistulotomy subcutaneous,35,35,35.0,0.0,1
+CRS,Primary rectovaginal fistula re,100,110,105.0,5.0,2
+CRS,Wound Repair - Middle,20,50,35.0,15.0,2
+CRS,"Ex. Sacro-cyg tumor, Benign",80,80,80.0,0.0,1
+CRS,Check anal or colon bleeding,15,30,22.5,7.48,2
+CRS,Colonoscopic polypectomy,30,105,67.5,37.5,2
+CRS,ESD < 3cm,50,150,91.0,35.27,5
+CRS,Removal Retroperit tumor - Beni,235,235,235.0,0.0,1
+CRS,"Hemorrhoidectomy, external",20,40,30.0,10.0,2
+CRS,"Electro cauterization,com.",35,55,46.67,8.49,3
+CRS,Colo-anal anastomosis,95,430,221.67,148.45,3
+CRS,Enterolysis + Bypass,145,155,150.0,5.0,2
+CRS,"Closure fistula,reco-vesical",190,190,190.0,0.0,1
+CRS,"CRS, Painless scopy (payself)",20,20,20.0,0.0,1
+CRS,Excision soft & hard tumor<2 cm,15,15,15.0,0.0,1
+CRS,"Electro-cauterization, perianal",35,35,35.0,0.0,1
+CRS,Re. recto-vaginal fistula repair,45,45,45.0,0.0,1
+CRS,"Colectomy, Hartmann's operation",165,270,218.33,42.88,3
+CRS,"By pass, ileo-colostomy",230,230,230.0,0.0,1
+CRS,Rectoplasty for stric. or sten.,10,10,10.0,0.0,1
+CRS,"Papillectomy, Anal - single",15,15,15.0,0.0,1
+CRS,"DaVinci-Colectomy,low anterior a",315,315,315.0,0.0,1
+CRS,Fasciotomy complicate,30,30,30.0,0.0,1
+CRS,"Rectopexy, perineal & Abdominal",120,120,120.0,0.0,1
+CS,Thoracoscopic lobectomy,115,525,241.62,76.0,37
+CS,Thorecoscopic Mediastin-tumor>5,60,165,125.56,35.77,9
+CS,"Thoracoscopic Resec. Lung, wedge",45,270,100.38,38.83,65
+CS,Thoracoscopic decorticat. pleura,40,185,95.3,28.47,33
+CS,Bronchoscopic excision of tumor,60,85,72.5,12.49,2
+CS,Thoracoscopic esophagectomy,420,635,503.75,68.5,8
+CS,Thoracoscopic Pericardial Window,65,150,101.43,35.92,7
+CS,Chest wall resection < 10cm,80,80,80.0,0.0,1
+CS,Malignant mediastinal tumor rese,130,140,135.0,5.0,2
+CS,Radical lymphadenectomy-lobe,80,300,190.0,110.0,2
+CS,Thoracoscopy with biopsy,30,85,57.5,27.5,2
+CS,VATS with thoracic duct ligation,675,675,675.0,0.0,1
+CS,Maximal thymothymectomy,175,175,175.0,0.0,1
+CS,Teflon intracordal injection,60,130,95.0,35.0,2
+CS,Intrapleural FB removal,135,135,135.0,0.0,1
+CS,Thoracoscopic segmentectomy of l,225,265,250.0,17.8,3
+CS,Thorecoscopic mediastin-tumor<5,75,130,96.67,23.91,3
+CS,Maximal thymectomy,115,115,115.0,0.0,1
+CS,Close of bronchial fistula,245,245,245.0,0.0,1
+CS,Esophagectomy & reconstruction,345,345,345.0,0.0,1
+CS,Decortication,75,95,85.0,10.0,2
+CS,Benign mediastinal mass ex.>5cm,245,245,245.0,0.0,1
+CVS,Cardiopulmonary bypass,285,760,485.2,147.41,25
+CVS,Rem of SC in muscle or deep FB,10,125,52.93,30.72,46
+CVS,TAPVR,275,275,275.0,0.0,1
+CVS,A-V shunt for hemodialysis,20,200,58.01,22.84,135
+CVS,Direct repair of Artery,115,225,159.17,45.58,6
+CVS,CABG - three vessels,315,875,595.83,150.63,18
+CVS,Single valve replacement,240,670,420.25,134.19,20
+CVS,CABG - one vessel,255,605,396.0,115.6,5
+CVS,Ex.of vascular - peripheral,30,320,141.33,88.68,15
+CVS,"Percardiotomy, radical",140,990,565.0,425.0,2
+CVS,Exploration vascular,10,175,64.29,48.21,7
+CVS,Vascular repair,75,625,322.5,200.92,4
+CVS,Pericardiotomy with exploration,85,180,125.0,40.21,3
+CVS,A-V bridge shunt,60,155,100.0,28.91,7
+CVS,Descending Aortic Aneurysm,100,130,115.0,15.0,2
+CVS,"Extracorporeal circulation, 1st",145,145,145.0,0.0,1
+CVS,Ascending Aortic Aneurysm,415,795,605.0,190.0,2
+CVS,Expl. Pericardiotomy&check blee,115,165,144.0,18.0,5
+CVS,Aortic Arch Aneurysm,90,1075,496.0,466.92,5
+CVS,Valvular or/and annuloplasty,360,785,533.33,182.13,3
+CVS,Abdominal Aortic Aneurysm infr.,95,170,145.0,35.36,3
+CVS,PAPVR,260,345,302.5,42.5,2
+CVS,A.S.D.,210,530,370.0,160.0,2
+CVS,"I/R permanent pacemaker, single",30,110,56.67,37.71,3
+CVS,Double valves replacement,510,665,585.0,63.38,3
+CVS,Repair tetralogy of Fallot,300,750,441.25,181.26,4
+CVS,Arteriao endarterectomy w/no byp,110,230,181.0,41.64,5
+CVS,U & L limb Embolectomy,65,115,90.0,25.0,2
+CVS,Carotid-subclavian bypass,260,260,260.0,0.0,1
+CVS,"Ligat.& divis.& com.&saphenous,",125,175,150.0,25.0,2
+CVS,PTA for PAOD,100,125,111.67,10.25,3
+CVS,A-V fistula,100,100,100.0,0.0,1
+CVS,B-T shunt of TF,180,320,255.0,57.59,3
+CVS,CABG - two vessels,320,375,350.0,22.73,3
+CVS,Repair VSD,200,550,341.67,150.46,3
+CVS,Thoracoabdominal Aneurysm,100,295,197.5,97.5,2
+CVS,Triple valves replacement,380,460,420.0,40.0,2
+CVS,Endovascular Surgery,240,240,240.0,0.0,1
+CVS,Femoropopliteal bypass,210,290,250.0,40.0,2
+CVS,Fontan operation < 6-year-old,265,550,438.33,124.25,3
+CVS,Repair ventricular aneurysmecto,550,550,550.0,0.0,1
+CVS,PTA,20,130,56.0,38.39,5
+CVS,Upper limb arteriography RT,20,20,20.0,0.0,1
+CVS,"DCRV,double chamber right vent.",315,730,522.5,207.5,2
+CVS,Remove FB of mediastinum (S),90,90,90.0,0.0,1
+CVS,Abnormal coronary a. from PA,425,425,425.0,0.0,1
+CVS,Abdominal Aortic Aneurysm supr.,280,280,280.0,0.0,1
+DENT,M-vascular free flap - Cutaneous,300,975,619.87,156.39,38
+DENT,Fasciectomy Necro.inf.med,20,140,54.81,26.6,27
+DENT,Saucerization & sequestrectomy,30,85,61.43,18.25,7
+DENT,Implant surgery I,175,175,175.0,0.0,1
+DENT,Fasciectomy Necro.inf.large,25,320,71.27,47.54,55
+DENT,Ex.tumor mass bone & joint,10,195,74.2,42.29,25
+DENT,"Cystic enucleation, middle 2-4c",60,170,94.38,32.24,8
+DENT,Mandible - O.R. simple,50,150,100.63,34.4,8
+DENT,TMJ Dislocation C.R. with fixat,5,5,5.0,0.0,1
+DENT,Deep neck incision & drainage,40,85,62.86,15.76,7
+DENT,Ex of nasopalatine cyst,55,115,80.45,21.03,11
+DENT,I & D - Extraoral,40,55,47.5,7.48,2
+DENT,Mod. Le Fort III Osteotomy,275,275,275.0,0.0,1
+DENT,Posterior composite resin - 3,240,280,260.0,20.0,2
+DENT,"S.O. of impacted tooth,bur-D.",60,120,90.0,30.0,2
+DENT,Facial augmentation&biomateria,220,220,220.0,0.0,1
+DENT,C-W-L operation (unil),75,75,75.0,0.0,1
+DENT,CR & wire - Both arches,125,125,125.0,0.0,1
+DENT,"Complex Extraction, each tooth",45,160,75.63,34.94,8
+DENT,Genioplasty no bone graft,355,355,355.0,0.0,1
+DENT,PMMCF Reconstruction,100,540,315.0,156.0,4
+DENT,"Release of scar contracture,neck",65,150,110.0,34.88,3
+DENT,Coronoidectomy,110,110,110.0,0.0,2
+DENT,"Cystic enucleation, small< 2 cm",55,55,55.0,0.0,1
+DENT,Island Pedicle flap,65,65,65.0,0.0,1
+DENT,Maxillo-Facial fr.O.R.-Le Fort I,165,165,165.0,0.0,1
+DENT,Posterior composite resin - 1,310,310,310.0,0.0,1
+DENT,Repair of tongue injury or woun,25,25,25.0,0.0,1
+DENT,Le Fort I Osteotomy with graft,155,155,155.0,0.0,1
+DENT,Maxillo-Facial O.R. - Le Fort II,145,300,222.5,77.5,2
+DENT,Reduction malarplasty,200,200,200.0,0.0,1
+ENT,ML,15,190,54.37,30.05,87
+ENT,Tympanoplasty no mastoidectomy,15,355,136.53,63.9,59
+ENT,Benign neck mass ex.-simple,5,140,51.44,31.17,45
+ENT,ENT biopsy,3,30,14.82,8.47,11
+ENT,Debridment 5-10cm,5,135,47.1,27.63,40
+ENT,Biopsy of oral mucosa,0,125,15.81,19.24,88
+ENT,CO2 Laser operation,0,50,11.27,9.67,56
+ENT,Ex facial skin tumor-medium 1-2,5,435,43.44,72.03,32
+ENT,I&D for auricular abs. or hema.,15,15,15.0,0.0,1
+ENT,Soft tissue biopsy (deep),10,95,39.0,29.56,5
+ENT,Nasopharyngenal biopsy,0,190,38.15,46.97,27
+ENT,Change tracheostomy set,3,25,15.5,8.33,6
+ENT,Myringotomy grommet tube ins,5,90,25.9,17.87,68
+ENT,Tonsillectomy & Adenoidectomy,50,125,76.11,21.04,9
+ENT,Paper myringoplasty,40,60,51.67,8.49,3
+ENT,"Neck dissection, radical",95,445,243.33,80.01,18
+ENT,Multiple sinusectomy,10,295,112.81,56.65,89
+ENT,"Ex of tumor,benign,large/deep",15,235,70.63,38.18,56
+ENT,"SMR + SMT, BILAT",20,105,52.62,17.86,61
+ENT,Laryngo micro-surgery & CO2 las,50,175,100.77,41.26,13
+ENT,"Laryngotracheal plasty, com.",55,165,89.58,33.38,12
+ENT,UPPP,55,345,124.48,59.16,29
+ENT,Oral excisional biopsy < 2 cm,5,15,10.0,3.16,5
+ENT,Debridment < 5cm,5,465,48.03,81.36,34
+ENT,S.M.T. - bilat,15,170,58.89,34.86,27
+ENT,Ablation of Submaxillary Gland,70,275,127.14,62.49,7
+ENT,"Radical thyroidectomy+LN ,unil.",120,365,207.92,62.49,12
+ENT,Skull Base Tumor Surgery,110,2445,761.11,500.37,18
+ENT,"Parotidectomy, total lebectomy",130,330,207.5,61.22,18
+ENT,Cricopharyngeal myotomy,55,395,126.43,113.16,7
+ENT,Submucous resection of septum,25,150,70.0,56.72,3
+ENT,"Resection of platine tonsil, bi",30,130,70.88,26.74,17
+ENT,"Subtotal thyroidectomy, unil",90,330,153.67,56.61,15
+ENT,"Laryngotracheal plasty, sim.",40,125,89.5,24.02,10
+ENT,"Tracheostomy, cervical",10,155,53.57,35.12,21
+ENT,Excision of preauricular fistul,30,100,55.94,17.59,16
+ENT,Mastoidectomy (modified),275,325,300.0,25.0,2
+ENT,Ex of thyroglossal cyst,95,130,108.33,14.02,6
+ENT,Nasal bone fracture - C.R.,30,100,55.0,21.98,9
+ENT,"Removal foreign body,com.embeded",25,25,25.0,0.0,1
+ENT,Glossectomy (partial),5,85,59.0,29.9,5
+ENT,Gastrostomy,40,95,66.0,19.34,5
+ENT,M-vascular free flap - Bone,500,1030,695.31,149.06,16
+ENT,Excision of parotid tumor,45,480,149.17,151.26,6
+ENT,Excision of nasal of tumor,90,90,90.0,0.0,1
+ENT,Neck mass excision biopsy,30,85,52.0,16.91,10
+ENT,Hemi.-vertical(lateral/anterior),65,565,228.0,181.98,5
+ENT,Thyroid lobectomy,155,280,216.25,47.61,4
+ENT,Meatoplasty & canaloplasty,25,210,120.0,75.61,3
+ENT,Inferior turbinoplasty,10,70,36.0,19.6,5
+ENT,Ex facial skin tumor-Small < 1cm,5,55,23.13,14.33,8
+ENT,Ossiculoplasty,155,175,165.0,10.0,2
+ENT,"Laryngectomy, total",390,390,390.0,0.0,1
+ENT,Traumatic otoplasty,35,80,51.0,15.3,5
+ENT,Stomaplasty,30,150,90.56,32.43,9
+ENT,"Thyroid cartilage plasty, com.",80,100,90.0,10.0,2
+ENT,"Benign neck mass< 5cm,simple",15,65,43.0,16.91,5
+ENT,"Impact cerumen removal, unil",15,15,15.0,0.0,1
+ENT,Biopsy/I&D of external ear cana,20,30,25.0,5.0,2
+ENT,"Tympanoplasty, & radical cavity",165,490,333.33,132.93,3
+ENT,"Ligation external,carotid arter",265,275,270.0,5.0,2
+ENT,"Lysis synechia, nasal",10,20,15.0,4.08,3
+ENT,Sialolithotomy.in gland,20,120,59.0,33.08,5
+ENT,Laryngopharygectomy,480,710,625.0,103.04,3
+ENT,Sinuscopy,15,60,33.33,19.28,3
+ENT,Laparoscopic gastrostomy,120,250,163.33,61.28,3
+ENT,"Submandiblar gland, total",225,225,225.0,0.0,1
+ENT,Palatoplasty with PF,15,40,27.5,12.49,2
+ENT,Oral tumor excision with LN,180,180,180.0,0.0,1
+ENT,"Re of ear canal tumor, micro",25,80,44.0,20.35,5
+ENT,Mandibular osteotomy,705,705,705.0,0.0,1
+ENT,Reconstruction of larynx,55,75,65.0,10.0,2
+ENT,"Nasal polypectomy, single",15,15,15.0,0.0,1
+ENT,Rhinoplasty,170,170,170.0,0.0,1
+ENT,Palatoplasty without PF,20,55,37.5,17.49,2
+ENT,Oral tumor excision with RND,560,560,560.0,0.0,1
+ENT,Ex of nasopharyngeal tumor,100,100,100.0,0.0,1
+ENT,C-W-L & ethmoidectomy,240,240,240.0,0.0,1
+ENT,Ear F.B.removal otoscope,10,10,10.0,0.0,1
+ENT,Oral incisional biopsy - soft,50,50,50.0,0.0,1
+ENT,Fiberoptic laryngoscopy,45,50,47.5,2.45,2
+ENT,Excision of ranula,10,10,10.0,0.0,1
+ENT,Intranasal cauterization,20,20,20.0,0.0,1
+ENT,Portocavo shunt(H-graft),50,50,50.0,0.0,1
+ENT,Supraglottic laryngectomy,440,440,440.0,0.0,1
+ENT,Larynx F.B. removal,55,55,55.0,0.0,1
+ENT,CO2 laser -Endolaryngeal micro.,40,40,40.0,0.0,1
+ENT,Myringoplasty(including skin gra,85,85,85.0,0.0,1
+ENT,Esoph. mercury dilatation,150,150,150.0,0.0,1
+ENT,"Choanal plasty, trans nasal",90,90,90.0,0.0,1
+ENT,Re-implant parathyroid gland,185,295,240.0,55.0,2
+ENT,Biopsy nose soft tissue,13,13,13.0,0.0,1
+ENT,Oral incisional biopsy - hard,20,20,20.0,0.0,1
+ENT,Oral excisional biopsy > 2cm,10,30,20.0,10.0,2
+ENT,"Ear F.B.removal otoscope,anesth",60,60,60.0,0.0,1
+ENT,"Thyroid cartilage plasty, 1 typ",110,110,110.0,0.0,1
+ENT,Extirp.benign tumors palate/ton,15,15,15.0,0.0,1
+ENT,Enucl thyroid cyst/nodule,100,100,100.0,0.0,1
+ENT,Remove benign tumor of esoph.,450,450,450.0,0.0,1
+ENT,Reconstruction of trachea,100,100,100.0,0.0,1
+ESUR,Open drainage,30,160,78.08,32.31,13
+ESUR,Endobronchial dilatation,15,55,35.0,15.81,4
+ESUR,Laparoscopic jejunostomy,80,230,140.0,56.9,4
+ESUR,Enterolysis + Resect + Anas,125,690,266.67,192.24,6
+ESUR,Esophagostomy,55,365,221.0,132.45,5
+ESUR,Endoscopic esophageal dilation,30,60,46.67,12.45,3
+ESUR,T-tube cholangiography,10,35,20.8,8.49,5
+ESUR,Repair Ventral hernia+mesh,40,315,132.31,68.49,13
+ESUR,"Esophageal reconstruction, colon",355,655,505.0,150.0,2
+ESUR,"Endo. cystolitholapaxy,com.",10,905,128.89,202.04,18
+ESUR,Laparoscopic gastric partition,100,135,120.0,12.75,4
+ESUR,Reg.fasciectomy-primary closure,25,25,25.0,0.0,1
+ESUR,Esophagogastric fistula closure,30,30,30.0,0.0,1
+ESUR,Esophageal balloon cath. dilata,75,75,75.0,0.0,1
+ESUR,Colostomy closure,150,305,210.0,67.95,3
+ESUR,Removal Intraabd foreign body,110,110,110.0,0.0,1
+ESUR,Drainage abdominal wall abscess,15,15,15.0,0.0,1
+ESUR,Tracheal stent intubation,105,105,105.0,0.0,1
+ESUR,Balloon dilatation of Esophagea,10,70,40.0,30.0,2
+ESUR,Debridment 5-10cm2,25,25,25.0,0.0,1
+ESUR,Chest wall resection > 10cm,100,100,100.0,0.0,1
+ESUR,Ex. urachus or its fistula,125,125,125.0,0.0,1
+ESUR,Bronchoscopy FB removal,160,160,160.0,0.0,1
+ESUR,Removal Intraabd tumor - Benign,165,165,165.0,0.0,1
+ESUR,Hepatorrhaphy > 5 cm,85,85,85.0,0.0,1
+GS,Drain Intraabd abscess,70,370,148.44,62.54,25
+GS,Laparoscopic cholecystectomy,25,245,86.63,36.08,235
+GS,Laparoscopic appendectomy,35,335,87.41,40.63,108
+GS,Enterolysis + Bowel Decomp,55,295,146.67,78.77,9
+GS,Modified Radical Mastectomy,120,600,205.14,106.45,35
+GS,"Thyroidectomy, unilateral",75,365,153.28,69.15,32
+GS,Repair Inguinal hernia no bowel,25,230,81.05,35.27,134
+GS,Laparoscopic subtotal gastrectom,120,340,211.43,70.08,14
+GS,Port-A set up,10,265,84.27,39.16,236
+GS,Partial hepatectomy,70,655,223.48,111.54,29
+GS,Small intestine resec. & anasto,85,510,213.33,119.22,12
+GS,Ex/Enucle pancreatic tumor/cyst,140,225,182.5,42.5,2
+GS,Enterolysis,45,310,151.18,75.49,17
+GS,"Simple mastectomy,unil",40,200,125.14,36.58,37
+GS,Repair Inguin hern+bowel resect,140,140,140.0,0.0,1
+GS,"Simple mastectomy,bilateral",165,215,190.0,25.0,2
+GS,CAPD Catheterization,30,80,57.69,15.13,13
+GS,Drainage of lesion,20,20,20.0,0.0,1
+GS,"Partial mastectomy,unil",20,320,97.98,60.27,126
+GS,Repair of umbilical hernia,45,130,69.5,22.85,10
+GS,"Partial mastectomy,bilateral",25,475,90.38,113.01,13
+GS,Intra ductal papilloma excision,35,110,72.5,37.5,2
+GS,Total gastrectomy L.N. dissec.,200,395,295.0,65.5,10
+GS,Segmental hepatectomy- 2 segmen,120,480,233.0,100.85,24
+GS,Tube enterostomy/tube cecostomy,35,215,100.28,41.74,18
+GS,Removal axillary lymphnode,40,225,110.19,43.36,27
+GS,Breast tumor excision bilateral,75,85,80.0,5.0,2
+GS,Laparoscopy,30,160,81.75,48.05,4
+GS,"Repair Inguinal hernia, scarf-no",60,120,97.5,20.76,6
+GS,"Orchiopexy undescended testis,U",80,95,85.0,7.07,3
+GS,Myringotomy,50,185,117.5,67.5,2
+GS,"Endoscopic mucosal resection,EM",5,230,75.74,52.99,27
+GS,Gastrorrhaphy,45,205,122.27,36.76,11
+GS,"Laparoscopy, Pyeloplasty",125,125,125.0,0.0,1
+GS,Simple frenectomy,1,50,17.2,17.28,5
+GS,Hydrocele & Inquinal hernia ope,30,135,74.38,30.76,8
+GS,Wound Repair - Small,10,50,28.0,12.88,5
+GS,"High ligation, left",60,60,60.0,0.0,1
+GS,Parathyroidectomy-simple,60,145,96.67,31.3,6
+GS,Laparoscopic herniorrhaphy,65,365,134.09,72.56,44
+GS,"Repair Inguinal hernia, relapse-",75,135,107.86,20.14,7
+GS,Subtotal gastrectomy L.N. disse,183,430,292.92,85.28,13
+GS,Segmental hepatectomy- 1 segmen,175,415,235.0,84.8,6
+GS,U. thyroidectomy+sub. throidecto,110,250,187.14,46.58,7
+GS,Total Parathyroidectomy,100,245,164.29,37.55,21
+GS,Trunk tumor Excision > 10 cm,65,540,196.67,171.04,6
+GS,"Local excision,ulcer/tumor",15,375,124.28,79.84,18
+GS,Left lobectomy,200,395,295.0,80.08,4
+GS,Breast tumor excision unil,15,250,61.05,49.72,19
+GS,Whipple operation,300,450,386.25,57.59,4
+GS,Choledocholithotomy+ T-tube,60,265,185.71,61.49,7
+GS,Hepatorrhaphy+Bile Drain,195,195,195.0,0.0,1
+GS,Anti-reflux subtrigonal injecti,40,40,40.0,0.0,1
+GS,Baker's cyst operation,135,155,145.0,10.0,2
+GS,Cholecystectomy,85,485,220.63,100.32,16
+GS,Gynecomastia excision bilat,175,175,175.0,0.0,1
+GS,Revision of gastrojejunostomy,160,220,190.0,30.0,2
+GS,Resection of intestinal polyp,60,60,60.0,0.0,1
+GS,Breast tumor exc.-needle localig,45,130,82.5,30.92,4
+GS,Fluoroscopy,20,20,20.0,0.0,1
+GS,Removal Intraabd tumor - Malign,175,615,319.29,143.59,7
+GS,Removal cervical lymphnode,40,95,57.5,19.73,6
+GS,Repair Ventral hernia no bowel R,5,100,52.0,30.76,5
+GS,"Panendoscopy, upper GI",10,30,20.0,10.0,2
+GS,Subcutaneous mastectomy,230,230,230.0,0.0,1
+GS,Choledochocyst excision.,250,580,420.0,134.91,3
+GS,"Orchiopexy, BILAT",65,145,95.0,23.98,8
+GS,Transrectal polypectomy,25,50,35.63,9.13,8
+GS,"Simple closure, duodenum",115,170,135.0,20.74,5
+GS,Ex of subcutaneous tumor < 2 cm,5,120,33.5,32.79,10
+GS,Operative Cholangiography,9,30,19.5,10.49,2
+GS,Wound treatment > 10cm,85,85,85.0,0.0,1
+GS,Circumcision (pay self),50,85,66.67,14.31,3
+GS,Appendectomy,105,240,160.0,50.0,5
+GS,"Ex. abdominal wall tumor, malign",55,340,197.5,142.5,2
+GS,"Repair Ventral hernia, scarf-no",80,115,97.5,17.49,2
+GS,"Orchiopexy, UNIL",123,125,124.0,1.0,2
+GS,"Thyroidectomy, bilateral",150,375,227.5,82.26,10
+GS,Breast needle tumor biopsy,35,140,95.71,32.55,7
+GS,Total gastrectomy,110,255,195.0,54.5,5
+GS,Pancreas Biopsy,80,115,97.5,17.49,2
+GS,Gastrectomy total +splenectomy,315,315,315.0,0.0,1
+GS,Removal Retroperit tumor - Malig,165,565,315.63,146.91,8
+GS,Pylorus sparing whipple operatio,305,460,378.33,63.55,3
+GS,Drainage of subphrenic abscess,205,225,215.0,10.0,2
+GS,Choledochotomy + T-tube,190,200,195.0,5.0,2
+GS,Deep enteroscopy,200,200,200.0,0.0,1
+GS,Distal Pancreatectomy,130,360,236.25,78.29,8
+GS,Parathyroidectomy re-exploration,90,90,90.0,0.0,1
+GS,Right lobectomy,205,545,324.55,97.34,11
+GS,Gastrojejunostomy,83,175,114.33,42.9,3
+GS,Red Intussusception+Resect+Anas,55,180,117.5,62.5,2
+GS,"TAH, SSVS, CCAP",295,295,295.0,0.0,1
+GS,Reduction of intussusception,55,100,78.0,15.68,5
+GS,Partial nail renoral & matricet,40,40,40.0,0.0,1
+GS,Soft tissue release - neck,85,85,85.0,0.0,1
+GS,Muscle (myocutaneous),335,335,335.0,0.0,1
+GS,"Imperforated anus, high type",320,370,345.0,25.0,2
+GS,Laparos. choledochotomy & T-tub,245,245,245.0,0.0,1
+GS,Radical axillary L.N. dissectio,110,260,168.33,54.51,6
+GS,"Choledochoscopic Tx, 1st",40,40,40.0,0.0,1
+GS,"Salpingectomy, laparoscopic",115,115,115.0,0.0,1
+GS,Mucocele Excision,0,25,10.0,10.8,3
+GS,Laparoscopic CBD exploration,135,190,162.5,27.5,2
+GS,"Ureteroneocystostomy, bilat",230,280,250.0,21.6,3
+GS,Segmental hepatectomy- 3 segment,435,450,442.5,7.48,2
+GS,Replacement of P.E.G.,25,25,25.0,0.0,1
+GS,"Radical neck L.N. dissec., unil",140,185,162.5,22.49,2
+GS,Sub/hemi gastrectomy GJ Roux-en-,215,455,295.0,113.14,3
+GS,Subtotal Parathyroidectomy,125,175,150.0,20.41,3
+GS,Repait of intestinal perforatio,140,140,140.0,0.0,1
+GS,"I & D, perirectal Abscess",35,35,35.0,0.0,1
+GS,DaVinci-Right lobectomy,490,490,490.0,0.0,1
+GS,DaVinci-Whipple operation,760,760,760.0,0.0,1
+GS,Ex. Necro. enteroco. Res.& Anas,200,200,200.0,0.0,1
+GS,Total Ex CBD + Reconstruct,320,320,320.0,0.0,1
+GS,Hemangioma excision > 5cm,270,270,270.0,0.0,1
+GS,Hepato enterostomy,250,250,250.0,0.0,1
+GS,Repair hip hernia no bowel resec,55,55,55.0,0.0,1
+GS,DaVinci-Segmental hepatectomy-1,635,635,635.0,0.0,1
+GS,Rectal incisional biopsy,95,95,95.0,0.0,1
+GS,Ex.inguinal lymphnode,45,45,45.0,0.0,1
+GS,Electrocauterization,35,35,35.0,0.0,1
+GS,Laparoscopic Splenectomy,80,80,80.0,0.0,1
+GS,Fistulography,45,45,45.0,0.0,1
+GS,Laparoscopic Nissen Fundoplicati,320,320,320.0,0.0,1
+GS,Drainage Append abscess,100,100,100.0,0.0,1
+GS,Tot Ex Exhep Bi Duct+Reconstruct,365,365,365.0,0.0,1
+GS,Subtotal gastrectomy no vagotom,145,145,145.0,0.0,1
+GU,Trocar suprapubic cystostomy,50,85,67.5,17.49,2
+GU,Laser lithotripsy,10,270,65.1,39.51,194
+GU,TUI of prostate,25,160,68.89,34.86,9
+GU,Fibrocystoscopy,5,105,40.0,24.1,60
+GU,"Ureteroneocystostomy, unil",245,460,353.0,82.13,5
+GU,HTA-LTURP-Thulium Laser,65,250,127.76,34.97,38
+GU,Repair of bladder rupture,185,185,185.0,0.0,1
+GU,Optic internal urethrotomy,20,260,71.43,56.5,21
+GU,TUR for bladder tumor,5,305,60.6,39.69,126
+GU,Laparoscopic nephrectomy,200,1035,366.11,252.52,9
+GU,Laparoscopic ureterilithotomy,220,390,277.0,56.97,10
+GU,Ex.of vascular - trunk vessels,130,435,315.0,132.73,3
+GU,"Laparoscopy, Partial nephrectomy",225,330,289.29,34.37,7
+GU,Biopolar TURP/TUVP 5-15gms,40,50,43.33,4.69,3
+GU,PCN nephrolithotomy,35,360,132.75,58.01,40
+GU,"Vasectomy, pay self",50,220,101.25,69.49,4
+GU,Biopolar TURP/TUVP 15-50gms,60,180,105.56,38.1,9
+GU,"Laparoscopy, Nephroureterectomy",45,625,315.0,162.33,10
+GU,Radical prostatectomy,180,710,380.83,124.56,18
+GU,Placement of double J cath.,10,215,54.24,39.75,21
+GU,Partial nephrectomy,230,270,250.0,20.0,2
+GU,Nephroureterectomy & bladder cuf,205,360,297.5,49.18,8
+GU,Segmental resection of U & U-U,315,665,443.75,134.74,4
+GU,"Ureterectomy, with bladder cuff",295,295,295.0,0.0,1
+GU,"Retrograde pyelography, UNIL",50,50,50.0,0.0,1
+GU,Suprapubic cystostomy,35,70,52.5,17.49,2
+GU,Debridement & change dress <10%,10,140,75.0,65.0,2
+GU,"Orchiectomy, UNIL",55,130,89.44,27.42,9
+GU,Electrohydraulic lithotripsy,25,290,86.0,80.34,10
+GU,"Ureterolysis, unil",255,255,255.0,0.0,1
+GU,Cystoureteroscopy + Tx diagnoti,10,130,48.54,25.96,41
+GU,"HTA-LTURP-Thulium Laser, veteran",55,235,135.27,48.5,15
+GU,TUI for bladder neck,10,90,45.94,20.54,16
+GU,Pelvic L.N. radical dissection,385,385,385.0,0.0,1
+GU,Tur prostate gland biopsies,25,400,86.36,101.04,11
+GU,Radical nephrectomy & LND,60,270,186.25,77.41,4
+GU,Hydrocelectomy,80,140,105.0,25.5,3
+GU,"Laparoscopy, Nephropexy",205,205,205.0,0.0,1
+GU,Radical orchiectomy & LN,65,145,116.67,36.58,3
+GU,Laser for ureteral stricture,245,245,245.0,0.0,1
+GU,Rad. cystectomy&urethral pouch,640,750,695.0,55.0,2
+GU,TURP 5-15 gms,34,130,82.42,29.53,12
+GU,TURP 15-50 gms,90,245,138.0,56.09,5
+GU,Ureter catheterization,35,335,161.25,117.33,4
+GU,Radical Groin L.N. dissec.,120,120,120.0,0.0,1
+GU,Sono guided prostate biopsy,35,35,35.0,0.0,1
+GU,Endoscopic ureterotomy,40,40,40.0,0.0,1
+GU,Partial amputation of penis,95,95,95.0,0.0,1
+GU,Resection of urethral tumor,30,45,38.33,6.19,3
+GU,Cystectomy with LN no cystopl.,610,610,610.0,0.0,1
+GU,Laparoscopy Renal cyst unroofing,110,260,185.0,75.0,2
+GU,"Pelvic exenteration, total",770,835,802.5,32.5,2
+GU,Removal of double J cath.,5,30,18.67,6.66,15
+GU,Int. dilatation of U. stricture,80,80,80.0,0.0,1
+GU,Varico-celectomy,115,220,167.5,52.5,2
+GU,Circumcision,35,120,79.0,31.69,5
+GU,Biopolar TURP/TUVP >50gms,105,200,143.33,40.89,3
+GU,Biopsy penis,65,65,65.0,0.0,1
+GU,Laser for GU tract tumor,60,110,81.67,14.89,6
+GU,Laparoscopic adrenalectomy,140,185,160.0,16.96,4
+GU,"Testicular biopsy, unil",90,90,90.0,0.0,1
+GU,"Ureterolithotomy, upper or lowe",395,395,395.0,0.0,1
+GU,"Partial/complete adnexectomy, U",130,340,211.67,91.86,3
+GU,"Orchiectomy, BILAT",45,45,45.0,0.0,1
+GU,Ultrasonic lithotripsy,30,35,32.5,2.45,2
+GU,"Ureterolithotomy, middle (1/3)",155,155,155.0,0.0,1
+GU,Interal urethrotomy,15,15,15.0,0.0,1
+GU,Polypectomy,35,35,35.0,0.0,1
+GU,Urethral diverticulectomy,85,85,85.0,0.0,1
+GU,DaVinci-Radical prostatectomy,250,460,355.71,76.97,7
+GU,DaVinci-Partial nephrectomy,220,505,341.0,96.41,5
+GU,DaVinci-Radical nephrectomy,230,230,230.0,0.0,1
+GU,Radical nephrectomy,475,475,475.0,0.0,1
+GU,"Da Vinci use fee, Prostatectomy",310,505,407.5,97.5,2
+GU,"Vas reversal, bilateral",205,205,205.0,0.0,1
+GU,Cystoprostatectomy PLND no U.&B.,450,450,450.0,0.0,1
+GU,I & D for scrotal abscess,40,40,40.0,0.0,1
+GU,Biopsy prostate(punch),75,75,75.0,0.0,1
+GU,Partial cystectomy,245,245,245.0,0.0,1
+GU,"Retrograde pyelography, BILAT",55,55,55.0,0.0,1
+GU,TURP > 50 gms,125,125,125.0,0.0,1
+GYN,Complicated total hysterectomy,145,485,202.8,72.26,25
+GYN,Total hysterectomy (LAVTH),100,470,245.09,84.42,53
+GYN,VPUS,55,80,70.0,10.49,5
+GYN,Laparoscopic myomectomy,100,590,230.96,106.85,26
+GYN,Laparoscopic actopic pregnancy,110,195,137.5,32.5,6
+GYN,"Lapa. oophorectomy, P./T.,Unil",75,510,156.44,68.86,59
+GYN,"Lapa. oophorectomy, P./T.,Bil",90,315,178.91,67.29,23
+GYN,D&C for diagnosis (not OBS),10,120,28.0,20.69,25
+GYN,"Enucleation of ovarian cyst, U",120,120,120.0,0.0,1
+GYN,Complicated myomectomy,45,250,150.77,49.53,13
+GYN,"Salpingo-oophorectomy, Unil",95,180,136.0,27.46,5
+GYN,"Hysterectomy,total extended",210,300,247.5,32.88,4
+GYN,"CCAP, SSVS / SSUS",90,140,105.0,20.62,4
+GYN,Enterocystoplasty bowel anastom,455,455,455.0,0.0,1
+GYN,Oophorectomy with omentectomy,195,195,195.0,0.0,1
+GYN,Hysterectomy rad. cervical canc,225,390,331.0,69.74,5
+GYN,Hysteroscopic polypectomy,25,220,128.33,80.03,3
+GYN,Abortion 1st trimester-in 3 mon,10,65,29.0,21.07,5
+GYN,Hysterorrhaphy,160,160,160.0,0.0,1
+GYN,"Lapa excision endometriosis, Min",95,135,115.0,14.14,6
+GYN,Cervical conization by knife,15,50,27.73,8.86,11
+GYN,Marsupialization Bartholin cyst,20,100,50.0,35.59,3
+GYN,BSO+omentec.+ATH+retrope.Lm. R.,200,595,328.24,100.55,17
+GYN,Lapa gynecologic oncology stagin,330,730,445.83,108.81,12
+GYN,BSO+omentectomy+ATH+retroperito,230,665,334.0,166.84,5
+GYN,"Lapa excision endometriosis, Mod",185,185,185.0,0.0,1
+GYN,Hysteroscopy,15,45,28.89,10.72,9
+GYN,Manual removal of placenta,130,130,130.0,0.0,1
+GYN,Uncomplicated total hysterectom,105,315,187.27,56.82,11
+GYN,Partial vaginectomy & resection,75,75,75.0,0.0,1
+GYN,Hysteroscopic myomectomy,35,90,66.0,18.81,5
+GYN,Repair of perineum,25,25,25.0,0.0,1
+GYN,"Partial/complete adnexectomy, B.",155,195,180.0,17.8,3
+GYN,Doderlin colpocleisis,65,65,65.0,0.0,1
+GYN,Repair rectal injury,510,510,510.0,0.0,1
+GYN,Excision vaginal inclusive cyst,30,85,57.5,27.5,2
+GYN,Removal IUD without Tail,35,35,35.0,0.0,1
+GYN,Subtotal Hysterectomy,225,225,225.0,0.0,1
+GYN,"TVH, SSVS, CCAP",130,140,135.0,5.0,2
+GYN,"Lapa excision endometriosis, Sev",230,230,230.0,0.0,1
+GYN,Uncomplicated myomectomy,120,165,142.5,22.49,2
+GYN,DaVinci-Lapa gynecologic oncolog,535,555,545.0,8.16,3
+GYN,Cystourethroscopy dilation cyst,20,20,20.0,0.0,1
+GYN,"Salpingo-oophorectomy, Bil",215,215,215.0,0.0,1
+GYN,"OP rm Brachy insertion, complex",100,100,100.0,0.0,1
+GYN,DaVinci-Total hysterectomy (LAVT,240,240,240.0,0.0,1
+GYN,D&C for treatment (not OBS),20,20,20.0,0.0,1
+NS,SFPSF with spinal <6 motion seg,105,860,323.88,146.66,170
+NS,Lami.decompression <=2 segments,105,225,160.0,35.09,8
+NS,ICP monitoring,25,225,58.33,43.07,18
+NS,Removal chronic subdural hemato,30,130,62.69,22.62,26
+NS,Diskectomy cervical,105,865,276.41,141.4,64
+NS,Cranioplasty,155,385,229.71,61.36,17
+NS,"Brain tumor exc., tumor<3cm",180,590,354.0,153.21,5
+NS,Craniectomy,165,240,201.67,30.36,6
+NS,V-P shunt,65,155,112.5,24.21,28
+NS,Stereo.procedure aspiration,75,75,75.0,0.0,1
+NS,Removal intracerebral hematoma,70,430,247.35,74.88,49
+NS,"Brain tumor exc., tumor 3-6cm",260,740,428.21,153.2,14
+NS,"Benign intraspinal tumor,excisio",155,600,309.09,125.17,11
+NS,Revision of CSF shunt,55,95,81.25,16.34,4
+NS,Neurolysis Elbow & wrist,30,55,39.58,7.71,12
+NS,"Removal of FB granuloma, com.",35,70,53.75,14.29,4
+NS,Transsphenoidal removal pituita,125,675,339.29,155.94,14
+NS,Radiofrequency coagulation,25,100,70.0,22.26,11
+NS,Trigger point injection (one),10,50,29.17,12.2,12
+NS,Removal of shunt device,60,155,91.67,44.77,3
+NS,Removal acute subdural hematoma,100,295,199.55,50.69,11
+NS,Percutaneous vertebroplasty 1st,40,120,87.0,22.42,15
+NS,Tracheostomy,25,30,27.5,2.45,2
+NS,SFASF with spinal <4 motion seg,150,290,248.75,57.26,4
+NS,Craniotomy VLA symptomatic,320,335,327.5,7.48,2
+NS,Removal epidural hematoma,115,355,167.86,78.23,7
+NS,Revision of shunt,100,100,100.0,0.0,1
+NS,"Brain tumor exc., tumor >6cm",290,1045,675.83,219.11,6
+NS,"Malignant intraspinal tumor,exc",155,405,265.94,72.05,16
+NS,Lamino plasty,205,205,205.0,0.0,1
+NS,Lami.decompression>2 segments,180,235,207.5,27.5,2
+NS,Repair meningocele/enccphalocel,65,475,176.67,137.74,6
+NS,Microvascular decompression,255,320,293.33,27.78,3
+NS,Transendo.dorsal sympathectomy,95,130,112.5,17.49,2
+NS,External ventricular drainage,30,230,80.45,64.96,11
+NS,Stereo.procedure biopsy,160,385,268.33,92.04,3
+NS,Ex.intraspinal AVM <=2 segments,275,275,275.0,0.0,1
+NS,Spinal fusion PSF without spinal,215,215,215.0,0.0,1
+NS,Neurolysis Upper arm,210,210,210.0,0.0,1
+OPH,Enucleation with implant,95,150,116.67,23.91,3
+OPH,Subconjunctival injection,1,20,12.0,8.04,3
+OPH,ECLE(ICLE) + IOL,5,135,30.25,16.56,1025
+OPH,Sclerotomy for glaucoma,5,60,24.12,11.32,34
+OPH,Correction of strabismus - two,10,85,39.62,12.25,73
+OPH,PKP,70,180,111.56,31.15,16
+OPH,Dacrocysto-hinostomy complicate,60,95,75.0,9.64,7
+OPH,Orbital with rem. of IOFB or BT,30,30,30.0,0.0,1
+OPH,Surgical correct. of entropion,15,95,46.5,22.51,30
+OPH,Tucking of levator aponeurosis,20,110,61.19,19.25,21
+OPH,Ex. of lid tumor malignant,5,195,40.63,48.56,16
+OPH,"Pars plana vitrectomy,complicat",15,115,61.59,33.17,22
+OPH,Complicated MIVS,10,220,67.15,36.45,302
+OPH,Complicated MIVS +SB,65,230,126.55,33.26,71
+OPH,"RE.,scleral & graft/buckling",45,180,100.76,27.74,33
+OPH,Simple MIVS,5,190,39.85,32.14,34
+OPH,MIVS(macula),10,155,38.13,23.21,123
+OPH,Intravitreous injection,0,115,11.84,18.74,49
+OPH,Removal of hyphema paracentesis,5,125,29.38,30.76,16
+OPH,Orbitotomy with exploration,45,45,45.0,0.0,1
+OPH,Lamella keratoplasty,90,140,115.0,25.0,2
+OPH,Complicated VT with SB,40,175,100.5,37.84,10
+OPH,Trabeculectomy under microscope,20,75,45.0,13.51,23
+OPH,Remove cornaeal stitch (Micro),5,30,10.5,6.77,14
+OPH,"Ex. of pterygium, primary",15,85,46.25,19.95,8
+OPH,Ex. of lid tumor benign,10,35,15.0,10.0,5
+OPH,Secondary of I.O.L.,40,95,70.0,21.51,4
+OPH,Suture of conjunctiva,5,5,5.0,0.0,1
+OPH,Remove F.B. in Anterior chamber,5,50,18.0,14.81,15
+OPH,Frontal silicone sling,45,155,79.17,35.4,6
+OPH,Orbital tumor Lateral approach,30,50,41.67,8.49,3
+OPH,Balloon dacryocystoplasty,30,90,58.33,18.84,6
+OPH,"Larcrimal apparatus, primary rep",60,80,70.0,10.0,2
+OPH,Removal of dislocated lens + VT,15,95,65.0,35.59,3
+OPH,Conjunctiva plasty with graft,12,95,37.31,18.81,29
+OPH,"Ex.pterygium, com. & keratectom",25,55,35.0,14.14,3
+OPH,Keratectomy,15,30,21.25,4.81,8
+OPH,Correction of strabismus - one,25,50,31.0,9.7,5
+OPH,Reposition of I.O.L.,5,45,27.5,14.78,4
+OPH,"Ex. lesion conjunctiva,Benign>3",5,65,21.88,17.65,8
+OPH,Suture of canaliculus,50,50,50.0,0.0,1
+OPH,Capsulotomy for cataract,55,55,55.0,0.0,1
+OPH,Fluid-gas exchange,5,125,28.13,32.23,24
+OPH,I&C of chalazion,10,50,30.0,13.23,6
+OPH,"Maxillectomy, partial",90,710,426.67,255.91,3
+OPH,Cyclocryotherapy,10,10,10.0,0.0,1
+OPH,Orbital tumor Anterior approach,35,155,75.0,48.09,4
+OPH,Simple VT with Photocoagulation,30,45,37.5,7.48,2
+OPH,"Ex. lesion conjunctiva,Benign<3",30,30,30.0,0.0,1
+OPH,Conj. plasty without graft,20,30,23.75,4.12,4
+OPH,"Eyeball repair, micro-complicat",65,140,94.0,27.46,5
+OPH,Eyeball repair cornescleral pef,30,175,106.0,44.49,10
+OPH,Ex. lesion of conjunctiva,62,62,62.0,0.0,1
+OPH,Nasolacrinal duct bougivation,30,30,30.0,0.0,1
+OPH,Comple. VT with Photocoagulation,30,115,70.28,24.96,18
+OPH,Exenterat. of orbit no skin gra,225,225,225.0,0.0,2
+OPH,Cryo for R. Deg. or break,25,25,25.0,0.0,1
+OPH,Lamellar sclera resection,55,55,55.0,0.0,1
+OPH,"Ex.pterygium, sim. & keratectom",25,25,25.0,0.0,1
+OPH,Repair lacerated eyelid,45,55,50.0,5.0,2
+OPH,"Epilation, Electrolysis",5,105,40.89,32.75,9
+OPH,Removal of FB from surf of conj.,25,60,42.5,17.49,2
+OPH,Rep. of scleral & scleroplasty,25,120,68.33,39.22,3
+OPH,Trabeculotomy under microscope,45,45,45.0,0.0,1
+OPH,Suture of cornea,10,50,30.0,20.0,2
+OPH,Tarsorrhaphy parmanent,15,15,15.0,0.0,2
+OPH,Lensectomy & vitrectomy,90,90,90.0,0.0,1
+OPH,Orbital decompression,75,140,107.5,32.5,2
+OPH,Correct. operation for ectropio,40,55,47.5,7.48,2
+OPH,C.B. PC #1,10,55,24.0,14.46,10
+OPH,Retinal. diathermy or cryopexy,10,10,10.0,0.0,1
+OPH,DALK,115,170,146.25,22.46,4
+OPH,Levator muscle resection,55,55,55.0,0.0,1
+OPH,Anterior vitrectomy ( ocutome),10,45,28.33,14.31,3
+OPH,Anterior Chamber paracentesis,45,45,45.0,0.0,1
+OPH,Remove intraocular F.B.,90,90,90.0,0.0,1
+OPH,"Shortening of skin, unil",40,40,40.0,0.0,1
+OPH,Fundoscopic exam,20,20,20.0,0.0,1
+OPH,Tarsorrhaphy temporary,5,5,5.0,0.0,1
+OPH,Remove stitches < 10cm,30,30,30.0,0.0,1
+OPH,Conjunctival suture /stitch,25,25,25.0,0.0,1
+OPH,Lens aspiration,55,75,65.0,10.0,2
+OPH,Lacrimal irrigation,55,55,55.0,0.0,1
+OPH,"Pars plana vitrectomy,simple",65,65,65.0,0.0,1
+OPH,"Operation entropion, sim(Hotz's",20,20,20.0,0.0,1
+ORTH,Open reduc. fracture-hand/foot,20,380,101.28,74.86,39
+ORTH,O.R. STC or ITC type III & IV,60,440,134.9,54.64,97
+ORTH,O.R. clavicle/olecranon/patella,45,375,114.72,46.24,89
+ORTH,O.R. fracture Foream radius&uln,25,445,95.87,57.43,98
+ORTH,O.R. fracture tibia - condyle,80,375,178.39,83.85,31
+ORTH,Hemiarthroplasty of hip,5,470,111.13,51.58,93
+ORTH,Open reduc. fracture-finger/toe,20,540,113.81,125.04,21
+ORTH,O.R. medial bimalleolus fracture,60,250,132.26,41.55,31
+ORTH,Excision of ganglion or hygrom,20,65,39.29,15.44,7
+ORTH,"S./C.-ankle,shoulder,elbow,wris",50,160,97.27,27.57,11
+ORTH,"Ex.bone upper extremity,sim.",50,80,65.0,12.25,3
+ORTH,Curettage - deep,15,215,79.69,43.15,80
+ORTH,O.R. fracture - femoral shaft,80,590,215.0,110.0,36
+ORTH,Local Flap > 2cm,10,220,95.4,47.89,25
+ORTH,O.R. dislocation shoulder joint,50,75,61.0,10.42,3
+ORTH,Arthroplasty TKR,60,185,101.93,29.39,167
+ORTH,Manipulation - others,65,65,65.0,0.0,1
+ORTH,Arthrotomy acute septic hip joi,110,110,110.0,0.0,1
+ORTH,"Remove internal fixator,tibia",15,190,65.63,37.42,24
+ORTH,"O.R. Humerus,Supra,Intercondyle",25,435,114.84,74.92,31
+ORTH,Tendon/ligament repair intra-art,65,315,170.0,96.13,6
+ORTH,P.I.F.F. of distal radius / uln,30,65,45.0,14.72,3
+ORTH,Shoulder joint hemiarthroplasty,115,185,158.75,27.69,4
+ORTH,"Remove internal fixator,forearm",15,195,63.0,43.14,20
+ORTH,Tendon repair-single,15,425,95.83,87.61,18
+ORTH,"Remove internal fixator,pelvis",55,80,67.5,12.49,2
+ORTH,"Remove internal fixator,others",10,155,50.23,26.49,105
+ORTH,O.R. fracture tibia - shaft,45,760,184.13,126.74,40
+ORTH,Repture of patella tendon repai,50,50,50.0,0.0,1
+ORTH,Arthroscopic shaving arthroplas,30,410,146.96,69.9,140
+ORTH,Rotator cuff tear repair-mild,55,210,132.5,77.5,2
+ORTH,"O.R. Femur,Supra,Intercondyle",90,250,165.31,49.73,16
+ORTH,Tendon lengthening,40,105,68.0,25.02,5
+ORTH,"Remove internal fixator,femur",5,230,84.18,45.29,61
+ORTH,Total hip replacement,40,240,117.74,48.66,53
+ORTH,"Remove internal fixator,humerus",10,90,48.33,24.14,9
+ORTH,Regional fasciectomy,25,120,68.0,40.94,5
+ORTH,O.R. dislocation of hip joint,195,260,227.5,32.5,2
+ORTH,Knee joint ACL reconstruction,110,355,191.67,56.54,30
+ORTH,Arthroplasty-Revision TKR,135,195,154.29,18.0,7
+ORTH,Bone biopsy,15,100,43.33,31.17,6
+ORTH,Corrective osteotomy-upper limb,45,150,98.75,42.77,4
+ORTH,Tendon transfer/transposition,100,345,200.0,104.96,3
+ORTH,Ex of subcutaneous tumor 4-10cm,25,285,86.0,76.71,10
+ORTH,Synovectomy of finger joint,35,85,60.0,25.0,2
+ORTH,O.R. medial unimalleolus fractur,70,140,102.86,26.16,7
+ORTH,Acromioplasty,80,185,145.0,46.37,3
+ORTH,Knee joint PCL reconstruction,160,445,242.86,88.67,7
+ORTH,Curettage - superficial,20,85,48.75,20.41,8
+ORTH,O.R. fracture - malleolus/talus,65,310,151.0,89.63,5
+ORTH,Reconstruction nail,35,100,55.0,23.45,9
+ORTH,Remove of external fixation,55,55,55.0,0.0,1
+ORTH,Tenotomy or fasciotomy-one,60,215,124.44,44.68,9
+ORTH,"Wide ex.-bone tumor,malig.2 sta",140,220,168.33,36.58,3
+ORTH,"Tendon/ligament repair,com. disr",45,490,151.67,153.61,6
+ORTH,Open reduc. fracture - radial,50,100,68.21,15.18,14
+ORTH,Diskectomy lumbar,120,405,212.73,81.44,11
+ORTH,O.R. fracture - acetablam,105,545,301.67,182.63,3
+ORTH,Girdlestone procedure of hip,85,275,154.0,67.71,5
+ORTH,"Tendon/ligament repair,incomplet",60,90,75.0,15.0,2
+ORTH,Hallux valgus(chevron),35,280,157.31,61.75,13
+ORTH,"Neurolysis hand, foot",45,75,60.0,15.0,2
+ORTH,AS Knee - Menisectomy,60,180,104.09,34.23,11
+ORTH,O.R.scapula fracture juxta-arti,100,115,107.5,7.48,2
+ORTH,Open reduction of sternum or rib,85,190,138.0,43.2,5
+ORTH,Bone tumor Curettage+Bone graft,30,130,95.0,36.19,5
+ORTH,Chondromalacia petella(dril./sha,105,105,105.0,0.0,1
+ORTH,Rotator cuff tear repair-massive,70,185,124.44,36.92,9
+ORTH,"Osgood schaltter's disease,ex.",55,55,55.0,0.0,1
+ORTH,"Ex.bone lower extremity,sim.",35,250,126.25,79.71,4
+ORTH,Rupture quadriceps tendon repai,90,105,97.5,7.48,2
+ORTH,O.R.acetabulum hip socket fract.,180,270,233.33,38.58,3
+ORTH,Epiphysiodesis(include stapling),130,195,160.0,26.77,3
+ORTH,O.R. dislocation of A-C joint,25,100,70.56,23.49,9
+ORTH,S.T.R. Quadriceps contracture,105,172,138.5,33.5,2
+ORTH,Open reduc. Scaphoid Fracture,35,350,153.33,140.02,3
+ORTH,"Bone graft Autograft, medium",85,365,212.5,106.12,8
+ORTH,Excision polydactyly/syndactyly,40,160,100.0,60.0,2
+ORTH,Osteosynthesis-femur,120,360,205.0,80.04,7
+ORTH,O.R. fracture - humeral shaft,55,235,125.0,44.5,10
+ORTH,C.R. dislocation of hip joint,15,35,26.67,8.49,3
+ORTH,C.R. Intertrochanteric type I&II,120,120,120.0,0.0,1
+ORTH,Manipulation - shoulder,5,60,20.63,20.67,8
+ORTH,Rupture patella tendon reconstr,180,180,180.0,0.0,1
+ORTH,Release of scar contracture,75,125,98.75,17.8,4
+ORTH,Muscle rotation flap,90,330,204.29,78.12,7
+ORTH,Arthroplasty-revision THR,95,190,140.91,31.24,11
+ORTH,Osteoplasty-Shorting,65,65,65.0,0.0,1
+ORTH,Remove of Pro. Hip/Shoulder/Knee,160,200,178.33,16.48,3
+ORTH,Excision soft&hard tumor>2 cm,35,60,43.75,9.59,4
+ORTH,Arthrodesis wrist /carpal joint,95,140,113.33,19.28,3
+ORTH,Arthrodesis of ankle joint,155,155,155.0,0.0,1
+ORTH,"Fasciotomy, lower limb",25,25,25.0,0.0,1
+ORTH,Repture achilles tendon primary,70,120,98.0,23.15,5
+ORTH,Regional fasciectomy Z-plasty,70,70,70.0,0.0,1
+ORTH,"Sono-Guided injection,MS system",45,45,45.0,0.0,1
+ORTH,Corrective osteotomy-others,205,205,205.0,0.0,1
+ORTH,Synovectomy/capsulectomy-knee,40,325,145.0,127.87,3
+ORTH,Open reduc. fracture radial hea,110,110,110.0,0.0,1
+ORTH,Osteosynthesis-forearm bone,65,65,65.0,0.0,1
+ORTH,Closed drainage,230,230,230.0,0.0,1
+ORTH,Diskectomy thoracic,510,510,510.0,0.0,1
+ORTH,O.R. fracture pelvis,35,450,175.0,125.94,9
+ORTH,Removal of internal fixator,20,115,60.0,31.78,5
+ORTH,AS Knee - Meniscus repair,65,65,65.0,0.0,1
+ORTH,Hallux valgus,75,75,75.0,0.0,1
+ORTH,Ostheosynthesis-metatarsal,130,130,130.0,0.0,1
+ORTH,E.F. for fracture - upper limb,235,235,235.0,0.0,1
+ORTH,O.R. dislocation of elbow joint,125,150,137.5,12.49,2
+ORTH,Realiqnment of patella,130,130,130.0,0.0,1
+ORTH,Total elbow replacement,210,210,210.0,0.0,1
+ORTH,Tenolysis,65,155,118.33,38.58,3
+ORTH,ATF reconstruction,115,115,115.0,0.0,1
+ORTH,Rupture biceps tendon repair,165,165,165.0,0.0,1
+ORTH,AS Knee - Debridement,95,95,95.0,0.0,1
+ORTH,Release of wry neck,80,80,80.0,0.0,1
+ORTH,"Ex.bone lower extremity,com.",40,190,115.0,75.0,2
+ORTH,Skin graft (pinch graft),110,110,110.0,0.0,1
+ORTH,Decom.LFCN at inguinal-unil,80,80,80.0,0.0,1
+ORTH,Knee joint PCL repair,105,105,105.0,0.0,1
+ORTH,Open reduction fracture - ulna,75,330,178.33,109.57,3
+ORTH,Patella sublux.lateral release,40,40,40.0,0.0,1
+ORTH,Video-assited Thoracoscopy (VAT),210,210,210.0,0.0,1
+ORTH,Open reduction fracture patella,70,70,70.0,0.0,1
+ORTH,"Arthroscopy biopsy,irri.& debrid",295,295,295.0,0.0,1
+ORTH,C.D.H. Open reduction,415,415,415.0,0.0,1
+ORTH,Revision Spine fusion instrument,270,270,270.0,0.0,1
+ORTH,C.R. Nailing of femoral neck fr.,160,160,160.0,0.0,1
+ORTH,Recur.anterior shoulder dislocat,235,235,235.0,0.0,1
+ORTH,Revision of scar or stump,60,105,82.5,22.49,2
+ORTH,O.R. dislocation of I-P or M-P,85,85,85.0,0.0,1
+ORTH,C.D.H. One stage operation,320,320,320.0,0.0,1
+ORTH,Close reduc. fracture - humerus,25,25,25.0,0.0,1
+ORTH,Manipulation - knee,20,20,20.0,0.0,1
+ORTH,Revision diskectomy,255,255,255.0,0.0,1
+ORTH,Close reduc. fracture-metacarpal,40,40,40.0,0.0,1
+ORTH,Corrective osteotomy-lower limb,220,220,220.0,0.0,1
+ORTH,Arthroplasty-Revision stem,195,195,195.0,0.0,1
+ORTH,"Remove internal fixator,hip",35,35,35.0,0.0,1
+PS,Zygoma - O.R. complicate,55,255,133.75,56.05,16
+PS,E.F. for fracture - lower limb,40,325,98.75,62.12,24
+PS,Fasciotomy simple,0,265,53.44,34.84,340
+PS,Tendon graft-single,30,140,91.25,47.48,4
+PS,Island Flap (medium),135,135,135.0,0.0,1
+PS,"Blepharoplasty-ptosis, B, G",60,75,66.67,6.19,3
+PS,I & D for osteomyelitis,15,155,49.83,28.53,29
+PS,F.T.S.G. simple < 10cm2,30,315,84.17,65.6,18
+PS,Debridment >10cm,5,150,50.05,34.39,96
+PS,Local Flap 1-2 cm,25,45,35.0,10.0,2
+PS,Recon.fractured nasal bone,75,75,75.0,0.0,1
+PS,S.T.S.G. each add 100cm2,95,1025,401.11,333.06,9
+PS,Amputation above knee,60,195,125.0,41.66,7
+PS,Amputation Phalanx,20,175,57.11,39.57,19
+PS,"Remove of Pro. Finger, toe",8,8,8.0,0.0,1
+PS,"Wide excision-soft,tumor,malig",15,645,159.09,128.94,88
+PS,"Micro nerve repair-hand, foot",90,250,148.5,49.09,10
+PS,Tenosynovectomy,25,120,74.55,31.93,11
+PS,Release of tendon sheath,15,80,35.63,19.42,8
+PS,"Micro. nerve repair, forearm",135,210,181.67,33.24,3
+PS,S.T.S.G. 25-100 cm2,25,920,134.67,186.06,45
+PS,M-vascular-Vessel ranastomosis,115,220,185.0,49.5,3
+PS,"Tendon repair, one added",130,465,243.75,131.78,4
+PS,V-Y advancement flap (hand),40,90,66.25,18.49,4
+PS,Advance flap,60,160,93.18,30.16,11
+PS,Muscle biopsy,35,35,35.0,0.0,2
+PS,Replantation digits/hand - one,360,440,398.33,32.74,3
+PS,F.T.S.G. each add 10cm2,85,90,87.5,2.45,2
+PS,Fasciectomy Necro.inf.small,10,285,69.44,78.36,9
+PS,Berke operation for ptosis,120,120,120.0,0.0,1
+PS,Trunk tumor Excision 5-10 cm,5,175,54.17,37.05,18
+PS,Revision amputated stump-thigh,95,115,101.67,9.4,3
+PS,Mandible -IMF,50,385,125.71,109.98,7
+PS,Disarticulation - finger or toe,10,90,45.42,21.87,24
+PS,"Parotidectomy, excision",140,140,140.0,0.0,1
+PS,Ex skin cancer & STSG 2-5cm Dia,50,90,65.0,15.41,4
+PS,Ex skin cancer & STSG > 5cm Dia,140,190,163.33,20.54,3
+PS,Ex facial skin tumor-Large > 2c,30,115,66.0,29.9,5
+PS,Ex of subcutaneous tumor 2-4cm,10,85,50.91,24.1,11
+PS,Repair facial laceration < 5cm,25,40,32.5,7.48,2
+PS,Excision of ganglion or cyst,20,85,52.14,22.8,7
+PS,Brachial plexus injury explorat,515,515,515.0,0.0,1
+PS,Nerve graft - forearm,130,130,130.0,0.0,1
+PS,"Com. nipple reductiion, unil.",90,90,90.0,0.0,1
+PS,Muscle repair- all fours,75,190,121.67,49.38,3
+PS,Muscle flap,95,95,95.0,0.0,1
+PS,Orbital floor OR silicon sheet,90,105,97.5,7.48,2
+PS,"Blepharoplasty suture, unil",65,95,80.0,15.0,2
+PS,Excision neuroma/neruofibroma,80,80,80.0,0.0,1
+PS,Arthrodesis finger or toe,27,65,46.0,19.0,2
+PS,Scalp tumor excision,15,50,30.83,12.7,6
+PS,Soft tissue biopsy (superficial,10,45,22.0,12.88,5
+PS,Explo.post-op hemorr./thr.-Neck,45,95,76.25,18.82,4
+PS,"Nerve repair - hand, foot",80,80,80.0,0.0,1
+PS,"Rhytidectomy total, pay self",80,80,80.0,0.0,1
+PS,Amputation - below knee,60,145,96.81,20.03,36
+PS,Amp. Metacarpal/Metatarsal,50,95,75.0,16.96,4
+PS,Scar revision 1 - 2 hours,40,40,40.0,0.0,1
+PS,Island Flap (large),210,345,277.5,67.5,2
+PS,Reduction of mandible(complicat,175,175,175.0,0.0,1
+PS,Rotation flap,155,155,155.0,0.0,1
+PS,I&D for septal abs. or hematoma,25,25,25.0,0.0,1
+PS,Maxillo-Fac. communicated frac.,275,355,320.0,33.42,3
+PS,Bone graft Allograft,200,455,327.5,127.5,2
+PS,Cross finger skin flap,110,110,110.0,0.0,1
+PS,S.T.S.G. < 25cm2,40,295,86.11,75.52,9
+PS,"Blepharoplasty Incision, unil",95,95,95.0,0.0,1
+PS,Scalp tumor,50,50,50.0,0.0,1
+PS,Lig.Interposition of basal joint,185,185,185.0,0.0,1
+PS,Fasciocutaneous rotation flap,80,515,221.43,132.49,7
+PS,TRAM Breast reconstuction,350,350,350.0,0.0,1
+PS,M-vascular-Vessel graft,110,345,227.5,117.5,2
+PS,Repair facial laceration > 10cm,45,105,75.0,30.0,2
+PS,Facial bone graft,570,570,570.0,0.0,1
+PS,"Dec.of mediun nerve at wrist,U",30,155,62.5,37.75,8
+PS,Nerve Anastomosis,120,120,120.0,0.0,1
+PS,Division of Pedicle Flap,30,155,96.25,47.74,4
+PS,Replantation digits/hand - two,450,450,450.0,0.0,1
+PS,Nasal bone fracture - O.R.,160,160,160.0,0.0,1
+PS,"Breast reconstruction, directly",515,590,552.5,37.5,2
+PS,Revision amputated stump-leg,80,90,85.0,5.0,2
+PS,Removal of Bone Plate,50,50,50.0,0.0,1
+PS,Commando operation,715,715,715.0,0.0,1
+PS,Disart. Metatarsal/Metacarpal,95,95,95.0,0.0,1
+PS,Capsulectomy dig. joint add one,130,130,130.0,0.0,1
+PS,Gillis method reduction zy.arch,70,70,70.0,0.0,1
+PS,"Face lift,general",390,390,390.0,0.0,1
+PS,M-vascular free flap - Muscle,330,330,330.0,0.0,1
+PS,Zygoma - O.R. simple,95,95,95.0,0.0,1
+PS,Tendon transfer,70,95,82.5,12.49,2
+PS,"Excision of Apocrine Gland,bilat",125,125,125.0,0.0,1
+PS,Tendon pulley rec.& fascial gra,140,140,140.0,0.0,1
+PS,"Brachial plexus repair,all kind",260,260,260.0,0.0,1
+PS,Mandible - O.R. complicate,155,155,155.0,0.0,1
+PS,"Augmentation Rhino., autograft",225,225,225.0,0.0,1
+PS,"Face lift,complicated",340,340,340.0,0.0,1
+PS,D & C of wound-severe > 10 cm,35,35,35.0,0.0,1
+PS,Orbital floor OR autograft,100,100,100.0,0.0,1
+,も砃嘿,程,程,キА丁,夹非畉,Ω计

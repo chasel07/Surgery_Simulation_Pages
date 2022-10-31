@@ -1,4 +1,4 @@
-package page1.controller;
+package page2.controller;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

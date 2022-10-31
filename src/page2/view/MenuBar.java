@@ -1,4 +1,4 @@
-package page1.view;
+package page2.view;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -12,12 +12,10 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
+   
+import page2.model.*;
+import page2.controller.*;
 
-import page1.controller.*;
-import page1.model.*;
-
-
-  
 public class MenuBar extends JPanel{ 
 	
 	private static final long serialVersionUID = 1L;
@@ -62,46 +60,7 @@ public class MenuBar extends JPanel{
 		jbHome.setBorder(new TextBorderUtils(ColorManager.COLOR_MENUBAR_BACKGOUND, 10, true));
 		jbHome.setBackground(ColorManager.COLOR_MENUBAR_BTNHOME);
 		jbHome.setForeground(ColorManager.COLOR_MENUBAR_BTNHOME_TEXT);
-		jbHome.setHorizontalAlignment(SwingConstants.CENTER);
-		jbHome.addMouseListener(new MouseListener() {  
-			@Override
-			public void mouseClicked(MouseEvent e) {
-				
-				if(Main.IS_HOME_PAGE) return; 
-				
-				int isBack = 
-					JOptionPane.showConfirmDialog(jfSystem, "確定要回到首頁嗎?", "回首頁", JOptionPane.OK_CANCEL_OPTION);
-				
-				if(isBack == 0) {   
-					Main.clearSelected(); 
-					
-					for(JLabel i: jl_route) {
-						i.setForeground(ColorManager.COLOR_MENUBAR_TEXT_DARK);
-					}  
-					
-					Main.backHome(); 
-				} 
-			}
-			@Override
-			public void mousePressed(MouseEvent e) {
-				jbHome.setFont(Main.FONT_TITLE_BOLD);
-			}
-
-			@Override
-			public void mouseReleased(MouseEvent e) {
-				jbHome.setFont(Main.FONT_TITLE);
-			}
-
-			@Override
-			public void mouseEntered(MouseEvent e) {
-				jbHome.setFont(Main.FONT_TITLE);
-			}
-
-			@Override
-			public void mouseExited(MouseEvent e) {
-				jbHome.setFont(Main.FONT_TEXT);
-			} 
-		}); 
+		jbHome.setHorizontalAlignment(SwingConstants.CENTER); 
 		return jbHome;   
 		 
 	}

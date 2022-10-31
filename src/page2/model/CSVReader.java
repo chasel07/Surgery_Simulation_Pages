@@ -1,11 +1,11 @@
-package page1.model;
+package page2.model;
 
 import java.io.*; 
 import java.util.*; 
 import java.util.logging.Logger;
 
-import page1.controller.Main;
-  
+import page2.controller.Main;
+ 
 ////////////////////////////////////////////////////////////////////////////////////
 // public CSVReader(String FilePath) 將input的FilePath中的檔案位置輸入至BufferedReader中//
 // public String[] readnext() 輸出String陣列 將每一列得到的結果存入回傳的陣列中

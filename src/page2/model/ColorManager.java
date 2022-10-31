@@ -1,4 +1,4 @@
-package page1.model;
+package page2.model;
 
 import java.awt.Color;
 import java.io.File;

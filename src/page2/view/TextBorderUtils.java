@@ -1,4 +1,4 @@
-package page1.view;
+package page2.view;
 
 import java.awt.Color;
 import java.awt.Component;

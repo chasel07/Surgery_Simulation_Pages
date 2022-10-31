@@ -1,4 +1,4 @@
-package page1.model;
+package page2.model;
 
 import java.io.File;
 
@@ -16,6 +16,7 @@ public class FileRoute {
 	public static final String PATH_CALENDAR = PATH_DATA + "/calender";
 	public static final String PATH_STDD = PATH_DATA + "/Standard_Deviation";
 	public static final String PATH_TEMP = PATH_DATA + "/distribution/temp.csv";
+	public static final String PATH_SURGERY_TEMP = PATH_DATA + "/各術式手術時間(暫存).csv";
 	
 	public static final String IMAGE_ROOT  = "src/page1/image/";
 	public static final String IMAGE_DELETE1  = IMAGE_ROOT + "delet1.png";

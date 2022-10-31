@@ -1,4 +1,4 @@
-package page1.controller;
+package page2.controller;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -16,6 +16,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import javax.imageio.ImageIO;
+import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
@@ -23,9 +24,9 @@ import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.WindowConstants;
 import javax.swing.border.LineBorder;
-
-import page1.model.*;
-import page1.view.*;
+ 
+import page2.model.*;
+import page2.view.*;
     
 
 public class Main {
@@ -117,15 +118,13 @@ public class Main {
 		SEARCH_SUBJECT_NAME.put("PED", "兒科");
 	}
 
-	public static final JFrame JF_SYSTEM = new JFrame(SYSTEM_NAME);
-
+	public static final JFrame JF_SYSTEM = new JFrame(SYSTEM_NAME); 
 	private static JFrame JF_SUB_WINDOW;
-
+	
+	private static final LoadingPanel lOADING_PANEL = new LoadingPanel(); 
 	public static final JPanel JP_SHOW = new JPanel(new BorderLayout());
 	public static final MenuBar JP_MENU = new MenuBar();
-
-	public static Page1_initialPanel PAGE_1;
-
+ 
 	public static boolean IS_HOME_PAGE = true;
 	private static JPanel GBC_PANEL;
 
@@ -151,9 +150,9 @@ public class Main {
 	public static void main(String[] args) throws IOException, ClassNotFoundException, InstantiationException,
 			IllegalAccessException, UnsupportedLookAndFeelException {
 		UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel"); 
+		setLogger(); 
 		initialFrame();
-		showFrame(); 
-		setLogger();
+		showFrame();  
 	}
 
 	private static void setLogger() {
@@ -181,25 +180,21 @@ public class Main {
 		GBC_PANEL.setBackground(Color.white);
 		GBC_PANEL.add(JP_MENU, BorderLayout.NORTH);
 		GBC_PANEL.add(JP_SHOW, BorderLayout.CENTER);
-
-		PAGE_1 = new Page1_initialPanel();
-		JP_SHOW.add(PAGE_1, BorderLayout.CENTER);
+		
+		File fileSrc = OpenFile(FILE_TYPE, COMMENT, FileRoute.PATH_RAW); 
+		switchPage(new Page2_BuildDataPanel(fileSrc));
 	}
-
-	/**
-	 * 回首頁
-	 */
-	public static void backHome() {
-		switchPage(PAGE_1);
-	}
-
+ 
 	/**
 	 * 畫面切換
 	 * 
 	 * @param src
 	 */
-	public static void switchPage(JPanel src) {
-		IS_HOME_PAGE = (src == PAGE_1);
+	public static void showLoading() {
+		switchPage(JP_SHOW, lOADING_PANEL); 
+	}
+	
+	public static void switchPage(JPanel src) { 
 		switchPage(JP_SHOW, src);
 	}
 
@@ -234,15 +229,7 @@ public class Main {
 		JF_SYSTEM.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		JF_SYSTEM.setVisible(true);
 	}
-
-	public static void setLoadingText(String fileName, double Progress) {
-		PAGE_1.setLoadingText(fileName, Progress);
-	}
-
-	public static void clearSelected() {
-		PAGE_1.clearSelected();
-	}
-
+ 
 	public static void SetSubwindow(JFrame Src) {
 		JF_SUB_WINDOW = Src;
 		JF_SUB_WINDOW.addWindowListener(new WindowAdapter() {
@@ -263,4 +250,54 @@ public class Main {
 		return JF_SUB_WINDOW;
 	}
 
+	private static File OpenFile(String FileType, String comment, String path) { 
+	 	myFilter filter = new myFilter(FileType, comment);
+		 
+	 	JFileChooser select = new JFileChooser(path);  
+	 	 
+	 	select.setDialogTitle("Open the file");  
+	 	select.addChoosableFileFilter(filter);
+	 	select.removeChoosableFileFilter(select.getAcceptAllFileFilter());
+	 	select.setFileFilter(filter); 
+		 
+		int result = select.showOpenDialog(JF_SYSTEM); 
+		if(result == JFileChooser.APPROVE_OPTION) {
+			return select.getSelectedFile();
+		}else {
+			return null; 
+		}   
+	}
+	  
+	private static class myFilter extends javax.swing.filechooser.FileFilter{
+		String extension , description;
+		public myFilter(String e,String d) {
+			extension = e.toLowerCase();
+			description = d; 
+		} 
+		@Override
+		public boolean accept(File f) {
+			if(f.isDirectory()) return true;
+			String e = null;
+			String s = f.getName();
+			int i = s.lastIndexOf(".");
+			if(i > 0 && i < s.length() - 1) {
+				e = s.substring(i + 1).toLowerCase();
+				if(extension.equals(e))return true;
+			} 
+			return false;
+		}
+
+		@Override
+		public String getDescription() {
+			return this.description;
+		}
+	}
+	 
+	public static void setLoadingText(String src) { 
+		lOADING_PANEL.setLoadingText(src); 
+	}
+	 
+	public static void setLoadingText(String fileName, double Progress) {
+		lOADING_PANEL.setLoadingText(fileName, Progress);
+	}
 }

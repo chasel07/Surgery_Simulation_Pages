@@ -1,4 +1,4 @@
-javac -d bin model/*.java controller/*.java view/*.java
+javac -encoding Big5 -d bin model/*.java controller/*.java view/*.java
 
 xcopy /y raw bin\src\page1\raw\ /E 
 xcopy /y data bin\src\page1\data\ /E
